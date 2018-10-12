@@ -1,6 +1,6 @@
 # CS50
 
-There are my implementations of the CS50 problem sets exercises.
+There are my implementations of the CS50 problem sets.
 
 ### Motivation
 
