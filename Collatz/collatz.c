@@ -13,9 +13,7 @@ int main (int argc, string argv[])
     }
 
     int n = atoi(argv[1]);
-    int steps = collatz(n);
-
-    printf("number of steps: %i\n", steps);
+    printf("number of steps: %i\n", collatz(n));
 
     return 0;
 }
